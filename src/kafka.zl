@@ -1,0 +1,2 @@
+// kafka: scaffold. The code moves here from the main repo (std/data/kafka), see docs/EXTRACTION.md there.
+namespace kafka
